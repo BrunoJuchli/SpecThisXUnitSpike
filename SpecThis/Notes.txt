@@ -1,0 +1,2 @@
+﻿Relevant XUnit parts for extension points are found here:
+https://github.com/xunit/xunit/blob/e64f566b75f93cd3cec27f950759d82832bfe44b/src/xunit.execution/Sdk/Frameworks/TestFrameworkProxy.cs

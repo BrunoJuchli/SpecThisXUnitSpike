@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitExtensionSpike", "XUnitExtensionSpike\XUnitExtensionSpike.csproj", "{567110C5-768E-4296-B02B-45353BAF3B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecThis", "SpecThis\SpecThis.csproj", "{296D60F7-6922-4956-98BD-0D41CD54A54D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XBehaveDemo", "XBehaveDemo\XBehaveDemo.csproj", "{59C1DE09-5A48-4BE7-9D63-A9066CF5B701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567110C5-768E-4296-B02B-45353BAF3B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567110C5-768E-4296-B02B-45353BAF3B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567110C5-768E-4296-B02B-45353BAF3B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567110C5-768E-4296-B02B-45353BAF3B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296D60F7-6922-4956-98BD-0D41CD54A54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296D60F7-6922-4956-98BD-0D41CD54A54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296D60F7-6922-4956-98BD-0D41CD54A54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296D60F7-6922-4956-98BD-0D41CD54A54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C1DE09-5A48-4BE7-9D63-A9066CF5B701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C1DE09-5A48-4BE7-9D63-A9066CF5B701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C1DE09-5A48-4BE7-9D63-A9066CF5B701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C1DE09-5A48-4BE7-9D63-A9066CF5B701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
